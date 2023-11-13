@@ -1,5 +1,11 @@
 # Corne ZMK config
 
+Read the [build log](https://blog.delni.me/en/posts/corne-kbd/) ([🇫🇷 version](https://blog.delni.me/fr/posts/corne-kbd/))
+
+![Corne KBD](docs/2023-11-13%2011.04.20.jpg)
+
+---
+
 Current keymap is:
 ```
 Layer 0: default
@@ -8,7 +14,7 @@ Layer 0: default
 |  TAB |  Q  |  W  |  E  |  R  |  T  |  |  Y  |  U   |  I  |  O  |  P  | BKSP |
 | SHFT |  A  |  S  |  D  |  F  |  G  |  |  H  |  J   |  K  |  L  |  ;  |  '   |
 | CTRL |  Z  |  X  |  C  |  V  |  B  |  |  N  |  M   |  ,  |  .  |  /  | ESC  |
-                   | GUI | LWR | SPC |  | ENT | RSE  | ALT |
+                   | GUI | SPC | LWR |  | RSE | ENT  | ALT |
 
 Layer 1: Fns & Syms
 
